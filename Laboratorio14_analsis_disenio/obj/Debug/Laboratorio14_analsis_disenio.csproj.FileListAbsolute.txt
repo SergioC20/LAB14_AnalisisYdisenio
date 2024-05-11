@@ -57,3 +57,5 @@ C:\Users\chejo\Desktop\SergioU\1ersemestre2024\AnalisisYDiseño\lab14\Laboratori
 C:\Users\chejo\Desktop\SergioU\1ersemestre2024\AnalisisYDiseño\lab14\Laboratorio14_analsis_disenio\Laboratorio14_analsis_disenio\obj\Debug\Laboratorio14_analsis_disenio.csproj.CopyComplete
 C:\Users\chejo\Desktop\SergioU\1ersemestre2024\AnalisisYDiseño\lab14\Laboratorio14_analsis_disenio\Laboratorio14_analsis_disenio\obj\Debug\Laboratorio14_analsis_disenio.dll
 C:\Users\chejo\Desktop\SergioU\1ersemestre2024\AnalisisYDiseño\lab14\Laboratorio14_analsis_disenio\Laboratorio14_analsis_disenio\obj\Debug\Laboratorio14_analsis_disenio.pdb
+C:\Users\chejo\Desktop\SergioU\1ersemestre2024\AnalisisYDiseño\lab14\Laboratorio14_analsis_disenio\Laboratorio14_analsis_disenio\bin\Newtonsoft.Json.dll
+C:\Users\chejo\Desktop\SergioU\1ersemestre2024\AnalisisYDiseño\lab14\Laboratorio14_analsis_disenio\Laboratorio14_analsis_disenio\bin\Newtonsoft.Json.xml
